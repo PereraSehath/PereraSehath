@@ -42,5 +42,47 @@
 - 📫 How to reach me: sehathp5@gmail.com;
 
 <img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+  
+  
+  <h2>Stats 📊</h2>
+
+<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=PereraSehath&theme=dracula&count_private=true"></div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PereraSehath&show_icons=true&hide_border=true&theme=tokyonight">
+
+<h2>Github Status <img 
+src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+</h2>
+
+- [![Profile views](https://gpvc.arturio.dev/PereraSehath)](https://github.com/PereraSehath)
+- [![GitHub followers](https://img.shields.io/github/followers/PereraSehath.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PereraSehath?tab=followers)
+- [![visitors](https://visitor-badge.glitch.me/badge?page_id=PereraSehath)](https://github.com/PereraSehath)
+
+
+<h2>Tools 🛠</h2> 
+<p align ="left">
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
+
+<h2>Most used Languages 🔠</h2> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
+ 
+<h2>Contributions 📈</h2>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana"></p>
+
+<a href="https://github.com/deshadeeth-thisarana"><img alt="Deshadeeth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deshadeeth-thisarana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
