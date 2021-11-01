@@ -95,3 +95,12 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 - [![Telegram](https://img.shields.io/badge/Sehath%20Profile-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/SehathPerera)
 - [![Telegram](https://img.shields.io/badge/Sehath%20Profile-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/AnnieHelper)
 - [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://youtube.com/c/SehathPerera)
+
+<h2>Join My Group & Channel 🎉</h2>
+
+<a href="https://t.me/AnnieUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
+<a href="https://t.me/GalaxyLanka"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+<a href="https://t.me/AnnieSupporters"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
