@@ -90,7 +90,7 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 - [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PereraSehath)
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Sehath:sehathp5@gmail.com)
 - [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:anniejulier@gmail.com)
-- [![Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-098f99?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=twitter)]     (https://twitter.com/Sehath2)
+- [![Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-098f99?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=twitter)](https://twitter.com/Sehath2)
 
 
 
