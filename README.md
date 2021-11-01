@@ -11,4 +11,17 @@
 <h2>I'm 𝐒𝐞𝐡𝐚𝐭𝐡 𝐏𝐞𝐫𝐞𝐫𝐚, a Developer from Sri Lanka 🇱🇰 still learning.</h2> 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
+  
+  
+  **Talking about Personal Stuffs**
+
+<img width="55%" align="right" alt="img " src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔹Name - Sehath Sanvidu Perera
+- 🔹Age - 17
+- 🔹Gender - Male
+- 🔹Country - Sri lanka 🇱🇰
+- 🔹I like programming & developing bots.
+- 🔹 Contact Me - <a href="https://t.me/SehathPerera"><img src="https://img.shields.io/badge/Sehath Perera-blue.svg?logo=telegram"></a>
+- 🔹 Contact Me - <a href="https://t.me/AnnieHelper"><img src="https://img.shields.io/badge/Annie-blue.svg?logo=telegram"></a>
 
