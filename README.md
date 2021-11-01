@@ -24,4 +24,24 @@
 - 🔹I like programming & developing bots.
 - 🔹 Contact Me - <a href="https://t.me/SehathPerera"><img src="https://img.shields.io/badge/Sehath Perera-blue.svg?logo=telegram"></a> <a href="https://t.me/AnnieHelper"><img  src="https://img.shields.io/badge/Annie-blue.svg?logo=telegram"></a>
 
+  
+  
+  <img width="50%" align="right" alt="Github" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" />
+  
+- I’m currently working on [TeamShadow](https://github.com/TeamOfShadow/) & [TeamDaisyX](https://github.com/TeamDaisyX);
+
+- 🌱 I’m currently learning Python And Pyrogram(Telegram MTProto API Client Library);
+
+- 👯 I’m looking to collaborate on [Here](https://t.me/GalaxyFriendsTeam) 🤝;
+
+- 🤔 I’m looking for help with bot developing 😭;
+
+- 💬 Ask me about anything, I am happy to help;
+
+- ⚡️ Fun-Fact: I'm Still Student;
+
+- 📫 How to reach me: deshadeeththisarana@gmail.com;
+
+<img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
