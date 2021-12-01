@@ -78,12 +78,12 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 </p>
 
 <h2>Most used Languages 🔠</h2> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereraSehath&theme=tokyonight&hide=batchfile">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshadeeth-thisarana&theme=tokyonight&hide=batchfile">
  
 <h2>Contributions 📈</h2>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PereraSehath" alt="PereraSehath"></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deshadeeth-thisarana" alt="deshadeeth-thisarana"></p>
 
-<a href="https://github.com/PereraSehath"><img alt="Sehath's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PereraSehath&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/deshadeeth-thisarana"><img alt="Deshadeeth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deshadeeth-thisarana&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <h2>Follow me on <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
 
