@@ -22,7 +22,7 @@
 - 🔹Gender - Male
 - 🔹Country - Sri lanka 🇱🇰
 - 🔹I like programming & developing bots.
-- 🔹 Contact Me - <a href="https://t.me/SehathPerera"><img src="https://img.shields.io/badge/Sehath Perera-blue.svg?logo=telegram"></a> <a href="https://t.me/SehathSanvidu"><img  src="https://img.shields.io/badge/Sehath-blue.svg?logo=telegram"></a>
+- 🔹 Contact Me - <a href="https://t.me/SehathPerera"><img src="https://img.shields.io/badge/Sehath Perera-blue.svg?logo=telegram"></a> <a href="https://t.me/SehathSanvidu"><img  src="https://img.shields.io/badge/Sehath2-blue.svg?logo=telegram"></a>
 
   
   
