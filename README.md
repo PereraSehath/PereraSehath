@@ -58,6 +58,11 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 - [![visitors](https://visitor-badge.glitch.me/badge?page_id=PereraSehath)](https://github.com/PereraSehath)
 
 
+## 🎵 Now playing
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
+
+
 <h2>Tools 🛠</h2> 
 <p align ="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
