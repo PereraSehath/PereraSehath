@@ -50,13 +50,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PereraSehath&show_icons=true&hide_border=true&theme=tokyonight">
 
 
-
-## My Github Activity Graph
-
-[![Sehath's github activity graph](https://activity-graph.herokuapp.com/graph?username=PereraSehath&theme=dracula)](https://github.com/PereraSehath/github-readme-activity-graph)
+# Activity Graph
 
 
-<h2>Github Status <img 
+![Sehath's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=PereraSehath&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+
+<h2>Github Status <img # Activity Graph
+
 src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 </h2>
 
