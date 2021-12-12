@@ -55,7 +55,7 @@
 
 ![Sehath's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=PereraSehath&custom_title=Sehath's%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PereraSehath&exclude_repo=swype-patch,ezup.dev,notes&theme=vue-dark&layout=compact)  
-![Wakapi Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PereraSehath&api_domain=ezup.dev%2Fwakapi&range=last_7_days&theme=vue-dark&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![Wakapi Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=&api_domain=ezup.dev%2Fwakapi&range=last_7_days&theme=vue-dark&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 
 
