@@ -65,6 +65,10 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 - [![visitors](https://visitor-badge.glitch.me/badge?page_id=PereraSehath)](https://github.com/PereraSehath)
 
 
+## 🏆 GitHub Activity
+
+![Metrics](https://metrics.lecoq.io/PereraSehath?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
+
 
 
 ## 🎵 Now playing
