@@ -67,9 +67,6 @@
 - [![visitors](https://visitor-badge.glitch.me/badge?page_id=PereraSehath)](https://github.com/PereraSehath)
 
 
-## 🏆 GitHub Activity
-
-![Metrics](https://metrics.lecoq.io/PereraSehath?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
 
 
 
