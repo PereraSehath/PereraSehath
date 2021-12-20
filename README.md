@@ -122,6 +122,9 @@
 
 
 
+#### **Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{PereraSehath}/count.svg)
+
 
 ## 🔥 Here is my popular repositories 🔥
 
