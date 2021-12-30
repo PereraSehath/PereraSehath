@@ -45,10 +45,6 @@
 
 
 
-# My Github Status📊
-![Metrics](https://metrics.lecoq.io/PereraSehath?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&activity=1&code=1&gists=1&lines=1&tweets=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FColombo)
-
-
 - ![Profile views](https://gpvc.arturio.dev/PereraSehath)
 - [![GitHub followers](https://img.shields.io/github/followers/PereraSehath.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PereraSehath?tab=followers)
   
