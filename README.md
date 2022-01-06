@@ -51,8 +51,10 @@
 
 
 
-<h2>Stats 📊</h2>
-<p align="center"> <a href="https://github.com/PereraSehath"><img src="https://github-profile-trophy.vercel.app/?username=PereraSehath&no-bg=true" alt="PereraSehath" /></a> </p>
+ <h2>Stats 📊</h2>
+
+<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=PereraSehath&theme=dracula&count_private=true"></div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PereraSehath&show_icons=true&hide_border=true&theme=tokyonight">
 
 
 
