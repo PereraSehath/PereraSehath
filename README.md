@@ -65,26 +65,6 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 - [![visitors](https://visitor-badge.glitch.me/badge?page_id=PereraSehath)](https://github.com/PereraSehath)
 
 
-<p align="center">
-  <a href="https://github.com/PereraSehath">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PereraSehath#version3"/>
-  </a>
-</p>
-<a href="h
-
-  <a href="https://github.com/PereraSehath"><img alt="Sehath Perera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PereraSehath&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PereraSehath&exclude_repo=swype-patch,ezup.dev,notes&theme=vue-dark&layout=compact) 
-
-
-
-## 🎵 Now playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
-
-
 <h2>Tools 🛠</h2> 
 <p align ="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -103,6 +83,19 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
+
+<h2>Most used Languages 🔠</h2> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereraSehath&theme=tokyonight&hide=batchfile">
+ 
+<h2>Contributions 📈</h2>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PereraSehath" alt="PereraSehath"></p>
+
+<a href="https://github.com/PereraSehath"><img alt="Sehath Perera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PereraSehath&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+## 🎵 Now playing
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
+
 
 
 <h2>Follow me on <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2> 
