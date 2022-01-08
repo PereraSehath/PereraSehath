@@ -50,12 +50,7 @@
 
 
 
-- [![GitHub followers](https://img.shields.io/github/followers/PereraSehath.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PereraSehath?tab=followers)
-- ![Profile views](https://gpvc.arturio.dev/PereraSehath)
-
-
-
- <h2>Stats 📊</h2>
+<h2>Stats 📊</h2>
 
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=PereraSehath&theme=dracula&count_private=true"></div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PereraSehath&show_icons=true&hide_border=true&theme=tokyonight">
