@@ -68,8 +68,7 @@
 </p>
 <a href="h
 
-  <a href="https://github.com/PereraSehath"><img alt="Sehath Perera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PereraSehath&bg_color=FF0000
-&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/PereraSehath"><img alt="Sehath Perera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PereraSehath&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
