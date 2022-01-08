@@ -19,6 +19,7 @@
 
 - 🔹Name - Sehath Sanvidu Perera
 - 🔹Age - 17
+- 🔹School - DS Senanayake College - Colombo 07
 - 🔹Gender - Male
 - 🔹Country - Sri lanka 🇱🇰
 - 🔹I like programming & developing bots.
