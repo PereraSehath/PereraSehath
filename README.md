@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=66FF00&lines=-%3E+Sehath+Perera;-%3E+I+love+programming+🦾.;-%3E+I+m+developing+bots.;-%3E+Github+Student)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=66FF00&lines&size=35&width=1050&height=100&lines=%E2%9E%AA+Sehath+Perera;+%E2%9E%AAI+I%E2%80%99m+love+programming+🦾;+%E2%9E%AA+Currently+Learning+Python+Pyrogram+%26+Telethon;+%E2%9E%AA+I%E2%80%99m+Don't+Forget+to+Follow+My+Github+Profile;%E2%9E%AA+Good+Bye)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=66FF00&lines&size=35&width=1050&height=100&lines=%E2%9E%AA+Sehath+Perera;+%E2%9E%AAI+Currently+Learning+Python+Pyrogram+%26+Telethon;+%E2%9E%AA+I%E2%80%99m+Don't+Forget+to+Follow+My+Github+Profile;%E2%9E%AA+Good+Bye)](https://git.io/typing-svg)
 
 
 
