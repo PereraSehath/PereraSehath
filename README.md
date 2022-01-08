@@ -62,7 +62,7 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 
 - [![Profile views](https://gpvc.arturio.dev/PereraSehath)](https://github.com/PereraSehath)
 - [![GitHub followers](https://img.shields.io/github/followers/PereraSehath.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/PereraSehath?tab=followers)
-- [![visitors](https://visitor-badge.glitch.me/badge?page_id=PereraSehath)](https://github.com/PereraSehath
+- [![visitors](https://visitor-badge.glitch.me/badge?page_id=PereraSehath)](https://github.com/PereraSehath)
 
 
 <p align="center">
