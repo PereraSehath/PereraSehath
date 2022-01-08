@@ -1,11 +1,8 @@
 <h1>Hey there,I'm Sehath Perera <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=66FF00&lines=-%3E+Sehath+Perera;-%3E+I+love+programming+🦾.;-%3E+I+m+developing+bots.;-%3E+Github+Student)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=66FF00&lines&size=35&width=1050&height=100&lines=%E2%9E%AA+Sehath+Perera;+%E2%9E%AA+I'm+Bot+Developer;+%E2%9E%AAI'm+Currently+Learning+Python+Pyrogram+%26+Telethon;+%E2%9E%AA+Github+Student;+%E2%9E%AA+I%E2%80%99m+Don't+Forget+to+Follow+My+Github+Profile;%E2%9E%AA+Good+Bye)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=000000&size=35&width=1050&height=100&lines=%E2%9E%AA+I'm+Bot+Developer;+%E2%9E%AA+I%E2%80%99m+Currently+Learning+Python+Pyrogram+%26+Telethon;+%E2%9E%AA+Don't+Forget+to+Follow+My+Github+Profile;%E2%9E%AA+Good+Bye)](https://git.io/typing-svg)
 
 
 | <a href="https://t.me/SehathPerera"><img src="https://te.legra.ph/file/9016c4551520dbea23541.jpg" width="350px" height="340px" /></a> |
