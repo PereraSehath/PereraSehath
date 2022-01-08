@@ -60,6 +60,7 @@
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=PereraSehath&theme=dracula&count_private=true"></div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PereraSehath&show_icons=true&hide_border=true&theme=tokyonight">
 
+
 <p align="center">
   <a href="https://github.com/PereraSehath">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PereraSehath#version3"/>
@@ -67,9 +68,10 @@
 </p>
 <a href="h
 
+  <a href="https://github.com/PereraSehath"><img alt="Sehath Perera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PereraSehath&bg_color=FF0000
+&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-# Activity Graph
-![Sehath's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=PereraSehath&custom_title=Sehath's%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PereraSehath&exclude_repo=swype-patch,ezup.dev,notes&theme=vue-dark&layout=compact) 
 
