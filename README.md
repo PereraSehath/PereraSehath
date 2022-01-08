@@ -60,6 +60,12 @@
 <div align="left"><img src="https://github-profile-trophy.vercel.app/?username=PereraSehath&theme=dracula&count_private=true"></div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PereraSehath&show_icons=true&hide_border=true&theme=tokyonight">
 
+<p align="center">
+  <a href="https://github.com/PereraSehath">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PereraSehath#version3"/>
+  </a>
+</p>
+<a href="h
 
 
 # Activity Graph
