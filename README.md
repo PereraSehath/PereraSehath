@@ -21,11 +21,11 @@
 
 - 🔹Name - Sehath Sanvidu Perera
 - 🔹Age - 17
-- 🔹School - DS Senanayake College - Colombo 07
+- 🔹School - St.John's College - Nugegoda
 - 🔹Gender - Male
 - 🔹Country - Sri lanka 🇱🇰
 - 🔹I like programming & developing bots.
-- 🔹 Contact Me - <a href="https://t.me/SehathPerera"><img src="https://img.shields.io/badge/Sehath Perera-blue.svg?logo=telegram"></a> <a href="https://t.me/SehathSanvidu"><img  src="https://img.shields.io/badge/Sehath2-blue.svg?logo=telegram"></a>
+- 🔹 Contact Me - <a href="https://t.me/iamsehazz"><img src="https://img.shields.io/badge/Sehath Perera-blue.svg?logo=telegram"></a> <a href="https://t.me/SehathSanvidu"><img  src="https://img.shields.io/badge/Sehath2-blue.svg?logo=telegram"></a>
 
   
   
@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning Python And Pyrogram(Telegram MTProto API Client Library);
 
-- 👯 I’m looking to collaborate on [Here](https://t.me/GalaxyLanka) 🤝;
+- 👯 I’m looking to collaborate on [Here](https://t.me/great_worriors) 🤝;
 
 - 🤔 I’m looking for help with bot developing 😭;
 
@@ -104,7 +104,7 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Sehath:sehathp5@gmail.com)
 - [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:anniejulier@gmail.com)
 - [![Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-098f99?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=twitter)](https://twitter.com/Sehath2)
-- [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://instagram.com/_.sehazz.__)
+- [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://instagram.com/_.omfg.itssehazz)
 - [![Telegram](https://img.shields.io/badge/Sehath%20Profile-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/SehathPerera)
 - [![Telegram](https://img.shields.io/badge/Sehath%20Profile-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/AnnieHelper)
 - [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCi-p3REDUDe58Xq8fjXWtLQ)
