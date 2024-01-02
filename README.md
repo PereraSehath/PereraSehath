@@ -20,7 +20,7 @@
 <img width="55%" align="right" alt="img " src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔹Name - Sehath Sanvidu Perera
-- 🔹Age - 17
+- 🔹Age - 19
 - 🔹School - St.John's College - Nugegoda
 - 🔹Gender - Male
 - 🔹Country - Sri lanka 🇱🇰
